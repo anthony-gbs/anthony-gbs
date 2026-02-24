@@ -1,9 +1,9 @@
 ### Hey guys! ⚡🚀
 ## I'm Anthony Silva
 - I live in Brasil <img src="https://user-images.githubusercontent.com/82158439/137811045-851bf2e5-bae8-419b-bea3-1055121823f4.png" width="20px">
-- Technician of Computer Network (Integrated High School) 🌐
+- Bachelor of Information Systems at UFMT 📚
 - Technician of Systems Development 💻
-- Studying for a Bachelor of Information Systems at UFMT 📚
+- Technician of Computer Network (Integrated High School) 🌐
 
 ## My Github Status:
 <div align="center">
